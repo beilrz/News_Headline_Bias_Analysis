@@ -17,7 +17,8 @@ Method:
 I plan to use NER, sentiment analysis, word embedding and clustering (for news media) in the project. I also plan to label some news data and fine-tune a pre-existing language model, likely LLM, for the sentiment analysis task specific to news headlines.
 
 
-## Thesis WIP (2/5/24)
+## Thesis WIP (2/26/24)
+* party-affiliated name embedding classification
 * finished basic data cleaning
 * finished collection success rate anlaysis
 * finshed NER
