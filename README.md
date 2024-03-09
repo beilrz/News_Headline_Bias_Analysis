@@ -9,16 +9,14 @@ For the final project, I plan to analyze news headlines from popular news media 
 
 Data:
 
-I have collected news media frontpages of 45 sites, from allsides.com featured media list, every two hours since 1/1/24. I am also collecting frontpages from 20 international news media outlets on a regular interval. So far, I have about 150,000 unique headlines for US news media, where each headline includes its text and a link to the full-length article.
+I have collected news media frontpages of 45 sites, from allsides.com featured media list, every two hours since 1/1/24.. So far, I have about 250,000 unique headlines for US news media for the first two months of 2024, where each headline includes its text and a link to the full-length article.
 
 
 Method:
+1. counting of named entities
+2. analysis of the embedding space of the headlines
+3. (WIP) full-article analysis
 
-I plan to use NER, sentiment analysis, word embedding and clustering (for news media) in the project. I also plan to label some news data and fine-tune a pre-existing language model, likely LLM, for the sentiment analysis task specific to news headlines.
 
-
-## Thesis WIP (2/26/24)
-* party-affiliated name embedding classification
-* finished basic data cleaning
-* finished collection success rate anlaysis
-* finshed NER
+## Thesis WIP (3/8/24)
+* finished first draft and initial analysis
