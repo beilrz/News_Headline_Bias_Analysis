@@ -6,7 +6,7 @@ For this project, I analyzed the news headlines from popular news media in the U
 
 ## Data:
 
-To answer the research question, I have collected headlines from news media frontpages of 45 sites, based on the featured media list from allsides.com. Each frontpage is scraped every two hours since 1/1/24. This project is still ongoing, and the initial analysis is based on the headlines from January and February. Each month, I collected around 1 million headlines, with around 150,000 unique ones, all sites combined.
+To answer the research question, I have collected headlines from news media frontpages of 44 sites, based on the featured media list from allsides.com. Each frontpage is scraped every two hours since 1/1/24. This project is still ongoing, and the initial analysis is based on the headlines from January and February. Each month, I collected around 1 million headlines, with around 150,000 unique ones, all sites combined.
 
 ## Method:
 To analyze the headlines, I primarily conducted two types of analysis so far: word space analysis and word embedding space analysis. (Word space analysis)[./ Word Space Analysis.ipynb] primarily concerns with the frequency of reported political figures (first-order agenda setting). (Word embedding space analysis)[./ Word Embedding Analysis.ipynb] primarily concerns with the framing and sentiment of reported political figures (second-order agenda setting).
